@@ -1,1 +1,4 @@
-
+Learning:
+- Java
+- Python
+- JavaScript
