@@ -1,8 +1,8 @@
 Learning:
 - Java (Minecraft Utility clients)
-- Python (College and more)
+- Python
 - C# (Unity games and Cheats)
-- JavaScript(No longer intrested.)
+- JavaScript(BitBurner)
 
 [![TheReal3rd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReal3rd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
