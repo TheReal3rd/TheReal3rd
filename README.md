@@ -3,8 +3,9 @@
 - Python
 - C# (Unity games and Cheats)
 - JavaScript(BitBurner)
-- 
+
 **My Stats:**
+
 [![TheReal3rd GitHub stats](https://github-readme-stats.vercel.app/api?username=TheReal3rd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheReal3rd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
