@@ -1,13 +1,28 @@
 <h1 align="center"><b>Learning</b></h1>
 <ul>
   <ol> 
-    <p>Java</p>
+    <p>My main languages: </p>
   </ol>
-  <ol>
-    <p>Python</p>
+  <ol> 
+    <p>Java, Python and C#</p>
   </ol>
-  <ol>
-    <p>C#</p>
+  <ol> 
+    <p>My Current projects are: </p>
+  </ol>
+  <ol> 
+    <p>YouTube Downloader - GUI interface for youtube-dl that allows the user to mass download video and convert them. Not public yet. (Java) </p>
+  </ol>
+  <ol> 
+    <p>Ingester - Driver search and mapping tool that automatically copies files from a new drive to a target location. Not public yet. (Java) </p>
+  </ol>
+  <ol> 
+    <p>JesterClient - Minecraft 1.19.2 Hacked client. Wont be public. (Java) </p>
+  </ol>
+  <ol> 
+    <p>3rdBotV2 - Redo of 3rdBotV1. Not public yet. (Java) </p>
+  </ol>
+  <ol> 
+    <p>WebSite Server - WebSite Server that supports SSL and build web pages automatically. Not public yet. (Java) </p>
   </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
