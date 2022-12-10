@@ -10,7 +10,7 @@
     <p>My Current projects are: </p>
   </ol>
   <ol> 
-    <p>YouTube Downloader - GUI interface for youtube-dl that allows the user to mass download video and convert them. Not public yet. (Java) </p>
+    <p>YouTube Downloader - GUI interface for youtube-dl that allows the user to mass download video and convert them. Public. (Java) </p>
   </ol>
   <ol> 
     <p>Ingester - Driver search and mapping tool that automatically copies files from a new drive to a target location. Not public yet. (Java) </p>
