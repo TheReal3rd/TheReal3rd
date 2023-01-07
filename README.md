@@ -46,6 +46,6 @@
     </a>
   </ol>
   <ol>
-    <p style="text-align:center">Discord: 3rd#1703</p>
+    <p style="text-align:center">Discord: ³ʳᵈ#1703</p>
   </ol>
 </ul>
