@@ -16,7 +16,7 @@
     <p>Ingester - Driver search and mapping tool that automatically copies files from a new drive to a target location. Not public yet. (Java) </p>
   </ol>
   <ol> 
-    <p>JesterClient - Minecraft 1.19.2 Hacked client. Wont be public. (Java) </p>
+    <p>JesterClient - Minecraft 1.19.2 & 1.19.3 Hacked client. Wont be public. (Java) </p>
   </ol>
   <ol> 
     <p>3rdBotV2 - Redo of 3rdBotV1. Not public yet. (Java) </p>
