@@ -6,9 +6,6 @@
   <ol> 
     <p>Java, Python and C#</p>
   </ol>
-    <ol> 
-    <p>I make shit.</p>
-  </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
 <ul align="center">
