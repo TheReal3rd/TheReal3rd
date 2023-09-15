@@ -1,10 +1,19 @@
 <h1 align="center"><b>Learning</b></h1>
 <ul>
   <ol> 
-    <p>My main languages: </p>
+    <p><b>My main languages: </b></p>
   </ol>
   <ol> 
-    <p>Java, Python and C#</p>
+    <p>Java - Minecraft mods and general utility applications.</p>
+    <p>Python - General utility.</p>
+    <p>C# - Unity modding.</p>
+  </ol>
+    <ol> 
+    <p><b>Learning: </b></p>
+  </ol>
+  <ol> 
+    <p>Ada - No real aim just for fun.</p>
+    <p>Cobol - For fun.</p>
   </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
