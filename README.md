@@ -12,8 +12,8 @@
     <p><b>Learning: </b></p>
   </ol>
   <ol> 
-    <p>Ada - No real aim just for fun.</p>
-    <p>Cobol - For fun.</p>
+    <p>Ada - No real aim just for fun. (Stopped learning this.)</p>
+    <p>Godot - Making my own game.</p>
   </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
