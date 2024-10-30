@@ -39,4 +39,10 @@
   <ol>
     <p style="text-align:center">Discord: thereal3rd</p>
   </ol>
+  <ol>
+    <p style="text-align:center">My Web sites: 333rd.one and 0xjester.com</p>
+  </ol>
+  <ol>
+    <p style="text-align:center">Email: third@0xjester.com</p>
+  </ol>
 </ul>
