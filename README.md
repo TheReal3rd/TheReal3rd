@@ -1,8 +1,6 @@
+<p>Just a person who works in the Live Event / Other area and creates random shit.</p>
 <h1 align="center"><b>Learning</b></h1>
 <ul>
-  <ol> 
-    <p>Just a person who works in the Live Event / Other area and creates random shit.</p>
-  </ol>
   <ol> 
     <p><b>My main programming languages: </b></p>
   </ol>
