@@ -1,19 +1,24 @@
 <h1 align="center"><b>Learning</b></h1>
 <ul>
   <ol> 
-    <p><b>My main languages: </b></p>
+    <p>Just a person who works in the Live Event / Other area and creates random shit.</p>
+  </ol>
+  <ol> 
+    <p><b>My main programming languages: </b></p>
   </ol>
   <ol> 
     <p>Java - Minecraft mods and general utility applications.</p>
     <p>Python - General utility.</p>
     <p>C# - Unity modding.</p>
+    <p>Godot - Making games.</p>
   </ol>
     <ol> 
-    <p><b>Learning: </b></p>
+    <p><b>Currently Learning: </b></p>
   </ol>
   <ol> 
-    <p>Ada - No real aim just for fun. (Stopped learning this.)</p>
-    <p>Godot - Making my own game.</p>
+    <p>ESP32 - Micropython and Electronics.</p>
+    <p>C++ - Planned not started. Mostly for ESP32 and basic applications.</p>
+  </ol>
   </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
