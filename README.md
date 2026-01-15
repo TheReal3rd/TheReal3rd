@@ -15,7 +15,7 @@
   </ol>
   <ol> 
     <p>ESP32 - Micropython and Electronics.</p>
-    <p>C++ - Planned not started. Mostly for ESP32 and basic applications.</p>
+    <p>C++ - Started learning opengl and more for game development.</p>
   </ol>
   </ol>
 </ul>
