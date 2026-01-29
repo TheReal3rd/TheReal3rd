@@ -1,5 +1,5 @@
 <p>Just a person who works in the Live Event / Other area and creates random shit.</p>
-<h1 align="center"><b>Learning</b></h1>
+<h1 align="center"><b>Languages i use</b></h1>
 <ul>
   <ol> 
     <p><b>My main programming languages: </b></p>
@@ -14,8 +14,10 @@
     <p><b>Currently Learning: </b></p>
   </ol>
   <ol> 
-    <p>ESP32 - Micropython and Electronics.</p>
+    <p>Micropython - ESP32 and Electronics.</p>
     <p>C++ - Started learning opengl and more for game development.</p>
+    <p>C - Microcontroller coding for ESP32.</p>
+    <p>COBOL - Skill building fun.</p>
   </ol>
   </ol>
 </ul>
