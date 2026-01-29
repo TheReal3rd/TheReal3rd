@@ -1,4 +1,4 @@
-<p>Just a person who works in the Live Event / Other area and creates random shit.</p>
+<p>Just a person who works in the Live Event / Other area and creates random stuff.</p>
 <h1 align="center"><b>Languages i use</b></h1>
 <ul>
   <ol> 
