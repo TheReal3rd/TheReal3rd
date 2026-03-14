@@ -45,7 +45,10 @@
     <p style="text-align:center">Discord: thereal3rd</p>
   </ol>
   <ol>
-    <p style="text-align:center">My Web sites: 333rd.one, 0xjester.com and simple.rip</p>
+    <p style="text-align:center">My Web sites: </p>
+    <a href="https://333rd.one"><p>333rd.one</p></a>
+    <a href="https://0xjester.com"><p>0xjester.com</p></a>
+    <a href="https://simple.rip"><p>simple.rip</p></a>
   </ol>
   <ol>
     <p style="text-align:center">Email: third@0xjester.com</p>
