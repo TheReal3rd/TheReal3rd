@@ -54,3 +54,6 @@
     <p style="text-align:center">Email: third@0xjester.com</p>
   </ol>
 </ul>
+<h1 align="center"><b>FAQ</b></h1>
+<p style="text-align:center">Can i pen test your servers?: No.</p>
+<p style="text-align:center">Can i add you on discord etc: Maybe email me first as to why then maybe i'll decide. I don't want to be disturbed. </p>
