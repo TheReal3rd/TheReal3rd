@@ -42,9 +42,6 @@
     </a>
   </ol>
   <ol>
-    <p style="text-align:center">Discord: thereal3rd</p>
-  </ol>
-  <ol>
     <p style="text-align:center">My Web sites: </p>
     <a href="https://333rd.one"><p>333rd.one</p></a>
     <a href="https://0xjester.com"><p>0xjester.com</p></a>
