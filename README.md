@@ -1,4 +1,5 @@
-<p>Just a person who works in the Live Event / Other area and creates random stuff.</p>
+<p>I am just a person who works within the live events industry.</p>
+<p>I like playing around with software and hardware.</p>
 <h1 align="center"><b>Languages i use</b></h1>
 <ul>
   <ol> 
@@ -7,18 +8,21 @@
   <ol> 
     <p>Java - Minecraft mods and general utility applications.</p>
     <p>Python - General utility.</p>
+    <p>Micropython - ESP32 and Electronics.</p>
     <p>C# - Unity modding.</p>
     <p>Godot - Making games.</p>
   </ol>
-    <ol> 
+  <ol> 
     <p><b>Currently Learning: </b></p>
   </ol>
   <ol> 
-    <p>Micropython - ESP32 and Electronics.</p>
     <p>C++ - Started learning opengl and more for game development.</p>
     <p>C - Microcontroller coding for ESP32.</p>
-    <p>COBOL - Skill building fun.</p>
   </ol>
+  <ol>
+    <p><b>Current Projects: </b></p>
+    <p>Godot - Creating a 3D platform shooter.</p>
+    <p>Python / Micropython - Creating a Room Temp and Humidity logger using ESP32 and DHT11.</p>
   </ol>
 </ul>
 <h1 align="center"><b>My Stats</b></h1>
@@ -43,8 +47,6 @@
   </ol>
   <ol>
     <p style="text-align:center">My Web sites: </p>
-    <a href="https://333rd.one"><p>333rd.one</p></a>
-    <a href="https://0xjester.com"><p>0xjester.com</p></a>
     <a href="https://simple.rip"><p>simple.rip</p></a>
   </ol>
   <ol>
